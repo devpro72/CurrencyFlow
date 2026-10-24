@@ -1,0 +1,56 @@
+{
+  "source": "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/CurrencyFlowApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Exchange",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh Rates",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Current Board",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy Current Board",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export Saved as CSV…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export Saved as TXT…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

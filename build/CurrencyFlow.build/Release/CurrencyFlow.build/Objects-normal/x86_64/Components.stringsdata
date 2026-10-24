@@ -1,0 +1,24 @@
+{
+  "source": "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/Components.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Show watched currencies only",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search currency or code…",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 63
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlow-primary.dia",
+    "emit-module-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlow-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlow-primary-emit-module.dia",
+    "pch" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlow-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlow-primary.swiftdeps"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/Components.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Components~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/ContentView.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/CurrencyData.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyData~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/CurrencyFlowApp.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/CurrencyFlowApp~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/Models.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/RatesService.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/RatesService~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/SettingsView.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/SidebarView.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/SidebarView~partial.swiftmodule"
+  },
+  "/Users/bobader/Desktop/CurrencyFlow/CurrencyFlow/Classes/Store.swift" : {
+    "const-values" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.swiftconstvalues",
+    "dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.d",
+    "diagnostics" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.dia",
+    "index-unit-output-path" : "/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.o",
+    "llvm-bc" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.bc",
+    "object" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.o",
+    "swift-dependencies" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store.swiftdeps",
+    "swiftmodule" : "/Users/bobader/Desktop/CurrencyFlow/build/CurrencyFlow.build/Debug/CurrencyFlow.build/Objects-normal/arm64/Store~partial.swiftmodule"
+  }
+}

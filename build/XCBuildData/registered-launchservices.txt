@@ -1,0 +1,3 @@
+/Users/bobader/Desktop/CurrencyFlow/build/Debug/CurrencyFlow.app
+/Users/bobader/Desktop/CurrencyFlow/build/Release/CurrencyFlow.app
+/Users/bobader/Desktop/CurrencyFlow/build/Release/CurrencyFlow.app
