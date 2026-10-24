@@ -10,8 +10,21 @@
 		AA00000000001001 /* CurrencyFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B8C6DDFC308CB70300577C82 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				mainimg.png,
+				settingimg1.png,
+				settingimg2.png,
+			);
+			target = AA00000000001007 /* CurrencyFlow */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		AA00000000001002 /* Classes */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Classes; sourceTree = "<group>"; };
+		B8C6DDF5308CB6DB00577C82 /* Screenshots */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (B8C6DDFC308CB70300577C82 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Screenshots; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +41,7 @@
 		AA00000000001004 = {
 			isa = PBXGroup;
 			children = (
+				B8C6DDF5308CB6DB00577C82 /* Screenshots */,
 				AA00000000001005 /* CurrencyFlow */,
 				AA00000000001006 /* Products */,
 			);
