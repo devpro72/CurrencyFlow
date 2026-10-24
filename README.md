@@ -77,9 +77,15 @@ The active provider is shown live in the status bar and in **Settings → Update
 ---
 
 # Screenshots
-![Main View](Screenshots/mainimg.png)
-![Setting](Screenshots/settingimg1.png)
-![Setting 2](Screenshots/settingimg2.png)
+### Main View
+<img src="Screenshots/mainimg.png" alt="Main View" width="500" height="400">
+
+### Setting View
+<img src="Screenshots/settingimg1.png" alt="Main View" width="500" height="400">
+
+### Setting 2
+<img src="Screenshots/settingimg2.png" alt="Main View" width="500" height="400">
+
 ---
 
 ## 🛠 Getting started
