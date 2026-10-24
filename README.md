@@ -76,6 +76,12 @@ The active provider is shown live in the status bar and in **Settings → Update
 
 ---
 
+# Screenshots
+![Main View](Screenshots/mainimg.png)
+![Setting](Screenshots/settingimg1.png)
+![Setting 2](Screenshots/settingimg2.png)
+---
+
 ## 🛠 Getting started
 
 ### Requirements
